@@ -1,4 +1,4 @@
-Welcome to our Python-based virtual assistant repository! 
+Welcome to my Python-based virtual assistant repository! 
 
 🐍 It's like having a helpful buddy in your computer. 😊 With this assistant, you can ask for jokes, get movie suggestions, check the weather, and more – all hands-free! 🎉 
 
